@@ -1,7 +1,5 @@
 # TodoApp
 
----
-
 ### User Stories
 
 #### REQUIRED (10pts)
