@@ -2,7 +2,7 @@
 
 ### User Stories
 
-#### REQUIRED (10pts)
+#### REQUIRED
 - [x] A user should be able to see all uncompleted tasks in a UITableView
 - [x] A user should be able to create new tasks
 - [x] A user should be able to edit a task
